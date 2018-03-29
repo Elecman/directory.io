@@ -1,12 +1,8 @@
-# bitcoin.io
-Clone bitcoin.io with balance
-23.03.2018 - checked keys (200 keys per page)
-25.03.2018 - checked keys (200 keys per page)
-28.03.2018 - checked keys (200 keys per page)
-0 / 10000 checked (0 found)
+0 / 10000
 10000 / 46366
 50000 / 86024
 100000 / 135987
+250000 / 
 500000 / 535949
 1000000 / 1029095 
 5000000 / 5024477 
